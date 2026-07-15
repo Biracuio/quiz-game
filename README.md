@@ -13,8 +13,7 @@ O jogo apresenta perguntas sorteadas aleatoriamente, controle de tempo, sistema 
 
 🎮 Jogue agora:
 
-**https://biracuio.github.io/quiz-game/
-**
+https://biracuio.github.io/quiz-game/
 
 ---
 
