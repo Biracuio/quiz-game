@@ -75,8 +75,8 @@ Além disso, o projeto contribuiu para o aperfeiçoamento da lógica de programa
 
 ## 👨‍💻 Desenvolvido por
 
--Natan Costa Gomes
--Yan Parazzi
+- Natan Costa Gomes
+- Yan Parazzi
 
 ---
 
