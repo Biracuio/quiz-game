@@ -19,10 +19,13 @@ https://biracuio.github.io/quiz-game/
 
 ## 📷 Capturas de tela
 
-- <img width="1182" height="675" alt="Quiz capa" src="https://github.com/user-attachments/assets/9f832b18-29cf-46af-9aa1-11f42f61c4d1" />
-- <img width="1181" height="675" alt="Quiz 1 questao" src="https://github.com/user-attachments/assets/79e7b67f-7715-4208-ba26-fd2c304c2a08" />
-- <img width="1180" height="676" alt="Quiz pontos" src="https://github.com/user-attachments/assets/acf7c558-a8c8-4e8e-b406-3edef970db14" />
-- <img width="1180" height="673" alt="Quiz game over" src="https://github.com/user-attachments/assets/bbba7117-bc47-467b-9bf5-7cd15ecc65d7" />
+<img width="1182" height="675" alt="Quiz capa" src="https://github.com/user-attachments/assets/9f832b18-29cf-46af-9aa1-11f42f61c4d1" />
+
+<img width="1181" height="675" alt="Quiz 1 questao" src="https://github.com/user-attachments/assets/79e7b67f-7715-4208-ba26-fd2c304c2a08" />
+
+<img width="1180" height="676" alt="Quiz pontos" src="https://github.com/user-attachments/assets/acf7c558-a8c8-4e8e-b406-3edef970db14" />
+
+<img width="1180" height="673" alt="Quiz game over" src="https://github.com/user-attachments/assets/bbba7117-bc47-467b-9bf5-7cd15ecc65d7" />
 
 ---
 
